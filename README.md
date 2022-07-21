@@ -7,6 +7,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jenish-codes&show_icons=true&theme=gotham" alt="jenish-codes" />
 
 
+### Languages Used
+  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenish-codes&show_icons=true&theme=gotham" alt="jenish-codes" />
 
 
