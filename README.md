@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+### My GitHub stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jenish-codes&show_icons=true&theme=gotham" alt="jenish-codes" />
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenish-codes&show_icons=true&theme=gotham" alt="jenish-codes" />
+
+
 <!--
 **jenish-codes/jenish-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
